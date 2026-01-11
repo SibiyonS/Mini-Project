@@ -54,5 +54,5 @@ Each folder contains 77 audio files for the corresponding digit label.
 ### 1. Clone this Repository
 
 ```bash
-git clone https://github.com/SREshwarPrasad/projects.git
+git clone https://github.com/SibiyonS/projects.git
 cd projects/dysarthric_speech_recognition
